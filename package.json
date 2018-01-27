@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-tools",
+  "version": "1.0.0",
+  "description": "NodeJS benchmark tools",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csokun/benchmark.git"
+  },
+  "author": "Sokun, CHORN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csokun/benchmark/issues"
+  },
+  "homepage": "https://github.com/csokun/benchmark#readme"
+}
