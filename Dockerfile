@@ -1,4 +1,4 @@
-FROM node:8.9-alpine
+FROM node:lts-alpine
 
 RUN apk add --no-cache python
 
